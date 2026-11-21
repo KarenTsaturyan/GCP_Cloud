@@ -2,7 +2,10 @@
 
 Run and test Google Cloud Platform (GCP) services locally on port `4588` using Floci GCP—no cloud account, billing, or real credentials needed.
 
-> 🧠 **Active Knowledge Base & Labs:** Check out your living hands-on learning log and DevOps scenarios in **[`LEARNING.md`](./LEARNING.md)**.
+> 🧠 **Active Knowledge Base & Labs:**
+> - **[`LEARNING-IAM.md`](./LEARNING-IAM.md)** — IAM: roles, bindings, service accounts, custom roles, ETag fixes
+> - **[`LEARNING-compute.md`](./LEARNING-compute.md)** — Compute Engine: VMs, firewall rules, startup scripts, images, MIGs
+> - **[`LEARNING-storage.md`](./LEARNING-storage.md)** — Storage Services: GCS buckets, object upload/download, IAM permissions, lifecycle, versioning
 
 ---
 
