@@ -6,6 +6,7 @@ Run and test Google Cloud Platform (GCP) services locally on port `4588` using F
 > - **[`LEARNING-IAM.md`](./LEARNING-IAM.md)** — IAM: roles, bindings, service accounts, custom roles, ETag fixes
 > - **[`LEARNING-compute.md`](./LEARNING-compute.md)** — Compute Engine: VMs, firewall rules, startup scripts, images, MIGs
 > - **[`LEARNING-storage.md`](./LEARNING-storage.md)** — Storage Services: GCS buckets, object upload/download, IAM permissions, lifecycle, versioning
+> - **[`projects/order-payment-pipeline/`](./projects/order-payment-pipeline/)** — Full Hands-On Project: Pub/Sub Fan-out, Secret Manager, Cloud Storage & Least Privilege IAM
 
 ---
 
